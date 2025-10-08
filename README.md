@@ -173,8 +173,8 @@ Potential improvements you could add:
 
 ## Creaters
 
-TanishQ Karnavat
-Soham Patil
+TanishQ Karnavat || 
+Soham Patil || 
 Avdhut Shetge
 
 
