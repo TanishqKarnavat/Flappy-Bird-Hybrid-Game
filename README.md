@@ -171,6 +171,13 @@ Potential improvements you could add:
 - Multiple difficulty levels
 - Particle effects for collisions
 
+## Creaters
+
+TanishQ Karnavat
+Soham Patil
+Avdhut Shetge
+
+
 ## License
 
 This project is open source and available under the MIT License.
