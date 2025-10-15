@@ -4,7 +4,7 @@ A beautiful, enhanced Flappy Bird game implemented in Python using Pygame with s
 
 ## ✨ Enhanced Features
 
-### Visual Enhancements
+### Visual Enhancements:
 - **Animated Bird**: Wing flapping animation, rotation based on velocity, and colorful sprite with trail effects
 - **Gradient Backgrounds**: Beautiful sky gradients with parallax scrolling clouds
 - **3D Pipe Effects**: Gradient pipes with highlights and shadows for realistic depth
@@ -12,24 +12,24 @@ A beautiful, enhanced Flappy Bird game implemented in Python using Pygame with s
 - **Screen Shake**: Dynamic camera shake effects during crashes
 - **Textured Ground**: Multi-layered ground with realistic textures
 
-### Four Difficulty Levels
+### Four Difficulty Levels:
 - **Level 1 (EASY)**: Large pipe gaps (200px), gentle jumps (-6.5), slower pipes (speed 2)
 - **Level 2 (MEDIUM)**: Smaller gaps (160px), same gentle jumps, faster pipes (speed 2.5)
 - **Level 3 (HARD)**: Small gaps (160px), higher jumps (-8), faster pipes (speed 2.5)
 - **Level 4 (FANTASTIC)**: Dark theme, switches between Flappy Bird and Geometry Dash modes every 10 points!
 
-### Gameplay Improvements
+### Gameplay Improvements:
 - **Level Selection Screen**: Choose your preferred difficulty before playing
 - **Level-Specific High Scores**: Track best scores for each difficulty level
 - **Progressive Difficulty**: Pipe spacing gradually decreases as your score increases within each level
 - **Smoother Controls**: More responsive jump mechanics with level-appropriate physics
 
-### Audio & Feedback
+### Audio & Feedback:
 - **Enhanced Sound Effects**: Musical jump sounds, success chimes for scoring, dramatic game over tones
 - **Score Animation**: Animated score display with color changes when scoring
 - **Visual Feedback**: Particle effects and screen shake provide immediate feedback
 
-### Player System & UI
+### Player System & UI:
 - **Home Page**: Welcome screen with player statistics and leaderboard
 - **Player Registration**: Name input system for tracking individual progress  
 - **Personal Stats**: Individual high scores, games played, and total score tracking
